@@ -1,6 +1,0 @@
-#!/bin/bash
-
-echo "OPEN SYNOPSES-VCS"
-$VCS_HOME/bin/vcs -full64 -cpp g++-4.8 gcc-4.8 -LDFLAGS -Wl, --no-as-needed $*
-
-
