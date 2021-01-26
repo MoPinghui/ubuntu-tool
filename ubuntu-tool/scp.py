@@ -1,5 +1,5 @@
 
-
+# The file is use ssh and scp to control host machine and transfer files
 
 import os
 import sys
