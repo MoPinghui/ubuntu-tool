@@ -1,1 +1,0 @@
-{"host": "mph", "device_list": {"liuwei": ["mph", "192.168.3.32"], "liujie": ["mz", "192.168.3.8"], "chen": ["chen", "192.168.1.106"], "mph": ["mph", "192.168.3.31"], "lc": ["lc", "192.168.3.53"]}, "paths": {"dp": "lib/python/deepmd/deepmd-kit", "ws": "WorkSpace/deepmd-kit/smooth/ws-gete", "lbpy": "lib/python", "app": "InstallPackage", "tool": "lib/tool"}}
